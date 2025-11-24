@@ -6,7 +6,7 @@
 /*   By: vhacman <vhacman@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/09/02 13:29:45 by vhacman           #+#    #+#             */
-/*   Updated: 2025/09/06 14:27:49 by vhacman          ###   ########.fr       */
+/*   Updated: 2025/10/17 15:22:21 by vhacman          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -26,6 +26,7 @@
 **   in different formats.
 */
 class Contact {
+
 	private:
 		std::string	_firstName;
 		std::string	_lastName;
